@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hola, soy Joel Montero
 
-<!--
-**MtrJoel/MtrJoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Construyendo conocimiento línea por línea.  
+Estudiante de Ingeniería en Software en UFHEC, autodidacta y práctico.  
+Acompáñame a aprender y construir proyectos juntos. 🚀
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+- Java (en progreso)
+- Git & GitHub
+- Lógica de programación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 En qué estoy trabajando ahora
+- Fundamentos de Java  
+- Ejercicios de lógica  
+- Mini proyectos prácticos
+
+## 🎯 Objetivo
+Convertirme en un desarrollador sólido construyendo proyectos reales y aprendiendo de forma constante.
+
+## 📌 Proyectos destacados
+- (Aquí pondrás tus repos cuando los vayas creando)
