@@ -14,7 +14,7 @@ Acompáñame a aprender y construir proyectos juntos. 🚀
 - Fundamentos de Java  
 - Ejercicios de lógica  
 - Mini proyectos prácticos
-- Extensión de Google
+- Extensión de Google - [Smart Notes](https://github.com/MtrJoel/smart-notes)
 
 ## 🎯 Objetivo
 Convertirme en un desarrollador sólido construyendo proyectos reales y aprendiendo de forma constante.
