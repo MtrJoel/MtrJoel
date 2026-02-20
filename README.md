@@ -20,4 +20,9 @@ Acompáñame a aprender y construir proyectos juntos. 🚀
 Convertirme en un desarrollador sólido construyendo proyectos reales y aprendiendo de forma constante.
 
 ## 📌 Proyectos destacados
-- (Aquí pondrás tus repos cuando los vayas creando)
+
+# Smart Notes – Browser Extension (JavaScript)
+
+Extensión para guardar fragmentos importantes de cualquier página web y organizar notas de estudio.
+
+[Ver en la tienda](https://chromewebstore.google.com/detail/smart-notes/aopgmpnlbjpgnnnhpdidjkhcbgbdflnc?hl=es)
