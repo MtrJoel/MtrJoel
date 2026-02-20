@@ -21,7 +21,7 @@ Convertirme en un desarrollador sólido construyendo proyectos reales y aprendie
 
 ## 📌 Proyectos destacados
 
-# Smart Notes – Browser Extension (JavaScript)
+*Smart Notes – Browser Extension (JavaScript)*
 
 Extensión para guardar fragmentos importantes de cualquier página web y organizar notas de estudio.
 
