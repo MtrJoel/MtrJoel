@@ -6,6 +6,7 @@ Acompáñame a aprender y construir proyectos juntos. 🚀
 
 ## 🛠️ Tecnologías
 - Java (en progreso)
+- JavaScript
 - Git & GitHub
 - Lógica de programación
 
@@ -13,6 +14,7 @@ Acompáñame a aprender y construir proyectos juntos. 🚀
 - Fundamentos de Java  
 - Ejercicios de lógica  
 - Mini proyectos prácticos
+- Extensión de Google
 
 ## 🎯 Objetivo
 Convertirme en un desarrollador sólido construyendo proyectos reales y aprendiendo de forma constante.
