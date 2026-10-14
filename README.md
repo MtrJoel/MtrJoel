@@ -6,7 +6,7 @@ Estudiante de Ingeniería de Software en **UFHEC**, enfocado en construir sistem
 
 Me gusta aprender construyendo: identificar problemas reales, diseñar soluciones y convertir ideas en software funcional. Actualmente estoy fortaleciendo mis conocimientos en Java, Spring Boot y arquitectura de aplicaciones, mientras desarrollo proyectos personales y productos desplegados en producción.
 
-🌐 **[Visita mi portafolio](https://joel-montero-porfolio.onrender.com/)** · 💼 **[Conecta conmigo en LinkedIn](https://www.linkedin.com/in/joelmontero)**
+🌐 **[Visita mi portafolio](https://joel-montero-porfolio.onrender.com/)** · 💼 **[Conecta conmigo en LinkedIn](https://www.linkedin.com/in/joel-montero-166488226?utm_source=share_via&utm_content=profile&utm_medium=member_android)**
 
 ---
 
