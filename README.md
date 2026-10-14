@@ -10,7 +10,7 @@ Me gusta aprender construyendo: identificar problemas reales, diseñar solucione
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 
 **Backend & APIs**
 
@@ -42,9 +42,9 @@ Me gusta aprender construyendo: identificar problemas reales, diseñar solucione
 
 ---
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
-### 🎓 Quorom Académico
+###  Quorom Académico
 
 **Spring Boot · React · PostgreSQL · Docker**
 
@@ -58,7 +58,7 @@ Plataforma full-stack creada para resolver un problema real en el entorno univer
 
 🔗 **[Ver demo en vivo](https://solicitud-asignaturas-frontend.vercel.app/)** · [Ver detalles del proyecto](https://joel-montero-porfolio.onrender.com/)
 
-### 📝 Smart Notes — Chrome Extension
+###  Smart Notes — Chrome Extension
 
 **JavaScript · Chrome Extensions · Manifest V3**
 
@@ -68,9 +68,9 @@ Extensión publicada en Chrome Web Store para guardar notas y fragmentos importa
 * Persistencia local mediante Chrome Storage APIs.
 * Herramienta orientada a estudiantes, lectores y personas que buscan mejorar su productividad.
 
-🔗 [Instalar desde Chrome Web Store](https://chromewebstore.google.com/detail/smart-notes/aopgmpnlbjpgnnnhpdidjkhcbgbdflnc?hl=es) · [Ver código fuente](https://github.com/MtrJoel/smart-notes)
+ [Instalar desde Chrome Web Store](https://chromewebstore.google.com/detail/smart-notes/aopgmpnlbjpgnnnhpdidjkhcbgbdflnc?hl=es) · [Ver código fuente](https://github.com/MtrJoel/smart-notes)
 
-### 🏦 Backend Core Bancario & API Transaccional
+###  Backend Core Bancario & API Transaccional
 
 **Java · Spring Boot · SQL Server · Spring Data JPA**
 
@@ -80,7 +80,7 @@ API REST orientada a simular operaciones bancarias, gestionar cuentas y mantener
 * Persistencia relacional mediante Spring Data JPA.
 * Enfoque en consistencia de datos y atomicidad transaccional.
 
-### 🚗 Sistema de Gestión de Peaje
+###  Sistema de Gestión de Peaje
 
 **Java · Programación Orientada a Objetos · SQL**
 
@@ -90,7 +90,7 @@ Sistema backend para procesar cobros en estaciones de peaje, validar saldos y ca
 * Validación de fondos disponibles.
 * Actualización de balances y control de operaciones.
 
-### 📱 betHabits
+###  betHabits
 
 **Flutter · Dart**
 
@@ -100,11 +100,11 @@ Aplicación móvil multiplataforma para realizar seguimiento de hábitos, regist
 * Mecánicas de compromiso personal.
 * Separación de responsabilidades entre dominio, datos y estado de la aplicación.
 
-📂 **[Explora todos mis proyectos y demos](https://joel-montero-porfolio.onrender.com/)**
+ **[Explora todos mis proyectos y demos](https://joel-montero-porfolio.onrender.com/)**
 
 ---
 
-## 📚 Actualmente enfocado en
+##  Actualmente enfocado en
 
 * Profundizar en Java y Spring Boot.
 * Diseñar APIs REST seguras, mantenibles y bien estructuradas.
@@ -115,7 +115,7 @@ Aplicación móvil multiplataforma para realizar seguimiento de hábitos, regist
 
 ---
 
-## 🎯 Mi objetivo
+##  Mi objetivo
 
 Convertirme en un **Backend Developer sólido**, capaz de diseñar, desarrollar y mantener sistemas confiables, escalables y seguros.
 
@@ -125,7 +125,7 @@ Cada proyecto es una oportunidad para aprender algo nuevo y mejorar la forma en 
 
 ---
 
-## 🤝 Conectemos
+##  Conectemos
 
 Estoy abierto a oportunidades junior, prácticas profesionales y colaboraciones en proyectos de desarrollo de software.
 
@@ -139,4 +139,4 @@ Estoy abierto a oportunidades junior, prácticas profesionales y colaboraciones 
 
 ---
 
-*Construyendo conocimiento línea por línea. Un proyecto a la vez.* 🚀
+*Construyendo conocimiento línea por línea. Un proyecto a la vez.* 
